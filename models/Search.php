@@ -19,7 +19,7 @@ use yii\helpers\ArrayHelper;
 /**
  * Search model for auth items (roles and permissions).
  * 
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Search extends Model
 {

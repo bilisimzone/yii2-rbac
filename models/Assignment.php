@@ -19,7 +19,7 @@ use yii\base\Model;
 use yii\helpers\ArrayHelper;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Assignment extends Model
 {

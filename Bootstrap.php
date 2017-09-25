@@ -21,7 +21,7 @@ use yii\base\InvalidConfigException;
 
 /**
  * Bootstrap class registers translations and needed application components.
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Bootstrap implements BootstrapInterface
 {

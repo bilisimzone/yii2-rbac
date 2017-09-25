@@ -14,7 +14,7 @@ Ask any question about how to use Yii2-rbac on [our forum](http://coreb2c.com).
 ## Did you find a security issue?
 
 Please don't use forum or Github issues to report security issues. Instead contact us directly by using following email
-address: `dmeroff@gmail.com`.
+address: `abdullah.tulek@coreb2c.com`.
 
 ## Did you find a bug?
 

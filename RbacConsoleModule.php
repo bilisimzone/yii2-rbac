@@ -7,7 +7,7 @@ use yii\base\Module;
 /**
  * Rbac console module.
  * 
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class RbacConsoleModule extends Module
 {

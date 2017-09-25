@@ -19,7 +19,7 @@ use yii\di\Instance;
 /**
  * Rule model.
  *
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Rule extends Model
 {

@@ -15,7 +15,7 @@ use yii\base\Module as BaseModule;
 use yii\filters\AccessControl;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class RbacWebModule extends BaseModule
 {

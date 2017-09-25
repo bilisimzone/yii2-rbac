@@ -19,7 +19,7 @@ use yii\rbac\Item;
 use coreb2c\rbac\validators\RbacValidator;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 abstract class AuthItem extends Model
 {

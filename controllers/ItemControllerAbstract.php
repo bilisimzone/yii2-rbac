@@ -20,7 +20,7 @@ use yii\widgets\ActiveForm;
 use coreb2c\rbac\models\Search;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 abstract class ItemControllerAbstract extends Controller
 {

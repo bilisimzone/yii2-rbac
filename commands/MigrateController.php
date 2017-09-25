@@ -21,7 +21,7 @@ use yii\helpers\Console;
 /**
  * Manages rbac migrations.
  *
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class MigrateController extends BaseMigrateController
 {

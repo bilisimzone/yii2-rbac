@@ -16,7 +16,7 @@ use yii\web\NotFoundHttpException;
 use yii\rbac\Item;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class RoleController extends ItemControllerAbstract
 {

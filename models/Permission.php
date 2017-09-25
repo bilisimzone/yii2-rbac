@@ -14,7 +14,7 @@ use yii\helpers\ArrayHelper;
 use yii\rbac\Item;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Permission extends AuthItem
 {

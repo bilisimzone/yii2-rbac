@@ -24,7 +24,7 @@ use yii\widgets\ActiveForm;
 /**
  * Controller for managing rules.
  *
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class RuleController extends Controller
 {

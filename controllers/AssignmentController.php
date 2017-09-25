@@ -16,7 +16,7 @@ use Yii;
 use yii\web\Controller;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class AssignmentController extends Controller
 {

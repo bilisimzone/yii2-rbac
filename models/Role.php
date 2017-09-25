@@ -14,7 +14,7 @@ namespace coreb2c\rbac\models;
 use yii\rbac\Item;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Role extends AuthItem
 {

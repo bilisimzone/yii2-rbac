@@ -19,7 +19,7 @@ use yii\db\Query;
 /**
  * Search model for rules.
  *
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class RuleSearch extends Rule
 {

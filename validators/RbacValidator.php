@@ -14,7 +14,7 @@ namespace coreb2c\rbac\validators;
 use yii\validators\Validator;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class RbacValidator extends Validator
 {

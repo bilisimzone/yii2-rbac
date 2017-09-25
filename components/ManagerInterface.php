@@ -14,7 +14,7 @@ namespace coreb2c\rbac\components;
 use yii\rbac\ManagerInterface as BaseManagerInterface;
 
 /**
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 interface ManagerInterface extends BaseManagerInterface
 {

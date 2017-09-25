@@ -23,7 +23,7 @@ use yii\rbac\Rule;
 /**
  * Migration for applying new RBAC items.
  *
- * @author Dmitry Erofeev <dmeroff@gmail.com>
+ * @author Abdullah Tulek <abdullah.tulek@coreb2c.com>
  */
 class Migration extends Component implements MigrationInterface
 {
