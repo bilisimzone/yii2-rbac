@@ -1,4 +1,4 @@
-# Yii2-rbac [![Total Downloads](https://img.shields.io/packagist/dt/coreb2c/yii2-rbac.svg?style=flat-square)](https://packagist.org/packages/coreb2c/yii2-rbac) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+# Yii2-rbac [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 Yii2-rbac provides a way to manage your application's RBAC structure and includes following features:
 
